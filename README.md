@@ -92,7 +92,7 @@
 
 ```bash
 1. clone / save the file
-git clone https://github.com/xaet/security-suite.git
+git clone https://github.com/aqeu/security-suite.git
 cd securitysuite
 
 2. (optional) install the extras
